@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/Banner2.gif" alt="">
+  <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/Banner3.gif" alt="">
   
 </p>
 <br>
