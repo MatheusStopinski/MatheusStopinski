@@ -12,3 +12,6 @@
 - 💬 Ask me about: **Technology, front-end, mobile development and metaverse! I would be happy to talk about 😃
 
 - ⚡ Fun fact: **I've been meditating for 10 years, I practice martial arts, I'm writing a book and I'm very creative, no matter what I do!**
+<br>
+<hr>
+<br>
