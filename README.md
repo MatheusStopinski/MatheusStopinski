@@ -13,5 +13,5 @@
 
 - ⚡ Fun fact: **I've been meditating for 10 years, I practice martial arts, I'm writing a book and I'm very creative, no matter what I do!**
 <br>
-<img align="center center" src="https://i.imgur.com/aElVpXo.png" alt="">
-
+<img align="center center" src="https://i.imgur.com/Zi7HBrj.png" alt="">
+<br>
