@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/cD0kUmx.mp4" alt="Hello Word 👋, I'm Matheus Stopinski ✨😎  I'm a 🚀 French developer 🚀 ❤️ creative and happy ❤️">
+  <img src="https://github.com/MatheusStopinski/MatheusStopinski" alt="Hello Word 👋, I'm Matheus Stopinski ✨😎  I'm a 🚀 French developer 🚀 ❤️ creative and happy ❤️">
 </p>
 
 <h2 align="center">In love with this front-end world, what motivates me most is bringing my creativity to life!</h2 >
