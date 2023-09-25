@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MatheusStopinski/MatheusStopinski/assets
-/Banner.gif" alt="Hello Word 👋, I'm Matheus Stopinski ✨😎  I'm a 🚀 French developer 🚀 ❤️ creative and happy ❤️">
+  <img src="https://github.com/MatheusStopinski/MatheusStopinski/assets/Banner.gif" alt="Hello Word 👋, I'm Matheus Stopinski ✨😎  I'm a 🚀 French developer 🚀 ❤️ creative and happy ❤️">
 </p>
 <br>
 <h2 align="center">In love with this front-end world, what motivates me most is bringing my creativity to life!</h2 >
