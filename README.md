@@ -3,12 +3,11 @@
   <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/Banner3.gif" alt="">
   
 </p>
-
+<h2 align="center">In love with this front-end world, what motivates me most is bringing my creativity to life!</h2 >
 <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/COMENTARIOS-DA-TURMA.png" alt="">
 <br>
-<h2 align="center">In love with this front-end world, what motivates me most is bringing my creativity to life!</h2 >
+<img align="center center" src="https://i.imgur.com/Zi7HBrj.png" alt="">
 <br>
-
 - 🔭 I'm currently working on [Site Indigena](https://github.com/MatheusStopinski/MasterOfInterfaces/tree/Site_Indigena)
 
 - 💬 Ask me about: **Technology, front-end, mobile development and metaverse! I would be happy to talk about 😃
