@@ -5,7 +5,6 @@
 </p>
 <h2 align="center">In love with this front-end world, what motivates me most is bringing my creativity to life!</h2 >
 <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/COMENTARIOS-DA-TURMA.png" alt="">
-<br>
 <img align="center center" src="https://i.imgur.com/Zi7HBrj.png" alt="">
 <br>
 
