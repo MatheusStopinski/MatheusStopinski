@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/Banner3.gif" alt="">
+  <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/Banner3.gif" alt="Banner de apresentação">
   
 </p>
 <h2 align="center">In love with this front-end world, what motivates me most is bringing my creativity to life!</h2 >
