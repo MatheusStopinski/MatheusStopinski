@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working on [Site Indigena](https://github.com/MatheusStopinski/MasterOfInterfaces/tree/Site_Indigena)
 
-- 📫 To contact me, use email or telephone: matheus.stopinski@hotmail.com / +55 (41) 999225844.
+- 📫 To contact me, use email or telephone: matheus.stopinski@hotmail.com || +55 (41) 999225844.
 
 - 💬 Ask me about: **Technology, front-end, mobile development and metaverse! I would be happy to talk about 😃
 
