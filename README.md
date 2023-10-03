@@ -14,6 +14,6 @@
 
 - ⚡ Fun fact: **I've been meditating for 10 years, I practice martial arts and I'm writing a book.**
 <br>
-<img align="center center" src="https://i.imgur.com/Zi7HBrj.png" alt="">
+<img align="center center" src="https://i.imgur.com/Zi7HBrj.png" alt="Fazendo o efeito do <hr> funcionar rsrs">
 <br>
 
