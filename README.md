@@ -18,7 +18,6 @@
 <br>
 <img align="center center" src="https://i.imgur.com/Zi7HBrj.png" alt="Fazendo o efeito do <hr> funcionar rsrs">
 <br>
-
 <h1 align="center">A little of my story!</h1>
 
 It all started in the heart of the army, where I had experiences that challenged my limits and shaped my character. Between intense training and challenging operations, and of course, some secret stories that I would love to share, but shh... military secret!
@@ -33,23 +32,18 @@ It was at that moment that my dream began to take shape and expand, almost like 
 <h1 align="center">A plan for professional happiness</h1>
 Today 04/10/23, I have 1 year and 6 months of college and I'm still an apprentice, but I have a plan! And it's as exciting as a science fiction movie. I combined my military experiences, nights of surveillance and passion for technology by taking separate courses, to shape my skills, I want to establish myself first as a front-end developer, to create innovative solutions that make the world more efficient, and of course, more fun. And for the near future? Create incredible applications that revolutionize the way many people interact with the digital world. Finally, as a life goal, in the future, I will establish myself as a visionary of the metaverse, where creativity and innovation have no limits.
 After all, as I've already learned, with persistence everything is possible for those who believe! And I believe, with all my heart! 🚀💡
+<br><br>
+<p align="center">#CriatividadeSemLimites #SoftwareEng #MobileDeveloper #VisionarioMetaverso.</p>
+<br><br>
 
-#CriatividadeSemLimites #SoftwareEng #MobileDeveloper #VisionarioMetaverso.
 
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
-</a>
+<!--
+⭐️ <a>My first repositories created.</a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusStopinski&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusStopinski&repo=anuraghazra.github.io&theme=buefy" />
 </a> |
-
-
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+-->
