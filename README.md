@@ -1,14 +1,13 @@
 <p align="center">  
   <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/Banner3.gif" alt="Banner de apresentação">  
 </p>
-<br>
 <h2 align="center">In love with this front-end world, <br> what motivates me most is bringing my creativity to life!</h2>
 <br><br>
 <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/COMENTARIOS-DA-TURMA.png" alt="Opnião de quem me conhece"> 
 <br>
 <h1 align="center">A little of my story!</h1>
 
-<p font-size:"55px">It all started in the heart of the army, where I had experiences that challenged my limits and shaped my character. Between intense training and challenging operations, and of course, some secret stories that I would love to share, but shh... military secret!
+<p>It all started in the heart of the army, where I had experiences that challenged my limits and shaped my character. Between intense training and challenging operations, and of course, some secret stories that I would love to share, but shh... military secret!
 <br>
 After my military journey, I joined the night surveillance area, sometimes working armed. Feeling like Batman (without the Batmobile, unfortunately).
 The responsibility was high, but the feeling of being the guardian of the shadows was priceless. However, fate had something surprising in store for me.
@@ -25,10 +24,12 @@ It was at that moment that my dream began to take shape and expand, almost like 
 Today 04/10/23, I have 1 year and 6 months of college and I'm still an apprentice, but I have a plan! And it's as exciting as a science fiction movie. I combined my military experiences, nights of surveillance and passion for technology by taking separate courses, to shape my skills, I want to establish myself first as a front-end developer, to create innovative solutions that make the world more efficient, and of course, more fun. And for the near future? Create incredible applications that revolutionize the way many people interact with the digital world. Finally, as a life goal, in the future, I will establish myself as a visionary of the metaverse, where creativity and innovation have no limits.
 After all, as I've already learned, with persistence everything is possible for those who believe! And I believe, with all my heart! 🚀💡
 <br><br>
-<p align="center" font-size:"45px">#CriatividadeSemLimites #SoftwareEng #MobileDeveloper #VisionarioMetaverso.</p>
+<h3 align="center">#CriatividadeSemLimites #SoftwareEng #MobileDeveloper #VisionarioMetaverso.<h3>
+  
 <br>
-<img align="center center" src="https://i.imgur.com/Zi7HBrj.png" alt="Fazendo o efeito do <hr> funcionar rsrs">
 
+<img align="center center" src="https://i.imgur.com/Zi7HBrj.png" alt="Fazendo o efeito do <hr> funcionar rsrs">
+<p>
 - 🔭 I'm currently working on [Site Indigena](https://github.com/MatheusStopinski/MasterOfInterfaces/tree/Site_Indigena).
 
 - 📫 To contact me, use email or telephone: matheus.stopinski@hotmail.com || +55 (41) 999225844.
@@ -36,6 +37,7 @@ After all, as I've already learned, with persistence everything is possible for 
 - 💬 Ask me about: **Technology, front-end, mobile development and metaverse! I would be happy to talk about 😃
 
 - ⚡ Fun fact: **I've been meditating for 10 years, I practice martial arts and I'm writing a book.**
+</p>
 <img align="center center" src="https://i.imgur.com/Zi7HBrj.png" alt="Fazendo o efeito do <hr> funcionar rsrs">
 <!--
 ⭐️ <a>My first repositories created.</a>
