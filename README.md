@@ -1,8 +1,11 @@
 <p align="center">  
   <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/Banner3.gif" alt="Banner de apresentação">  
 </p>
+<br><br>
 <h2 align="center">In love with this front-end world, <br> what motivates me most is bringing my creativity to life!</h2>
+<br><br>
 <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/COMENTARIOS-DA-TURMA.png" alt="Opnião de quem me conhece"> 
+<br>
 <h1 align="center">A little of my story!</h1>
 
 <p font-size:"55px">It all started in the heart of the army, where I had experiences that challenged my limits and shaped my character. Between intense training and challenging operations, and of course, some secret stories that I would love to share, but shh... military secret!
