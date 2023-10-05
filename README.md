@@ -1,7 +1,7 @@
 <p align="center">  
   <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/Banner3.gif" alt="Banner de apresentação">  
 </p>
-<br><br>
+<br>
 <h2 align="center">In love with this front-end world, <br> what motivates me most is bringing my creativity to life!</h2>
 <br><br>
 <img align="center" src="https://github.com/MatheusStopinski/MatheusStopinski/raw/main/assets/COMENTARIOS-DA-TURMA.png" alt="Opnião de quem me conhece"> 
