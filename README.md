@@ -26,7 +26,7 @@ It was at that moment that my dream began to take shape and expand, almost like 
 Today 04/10/23, I have 1 year and 6 months of college and I'm still an apprentice, but I have a plan! And it's as exciting as a science fiction movie. I combined my military experiences, nights of surveillance and passion for technology by taking separate courses, to shape my skills, I want to establish myself first as a front-end developer, to create innovative solutions that make the world more efficient, and of course, more fun. And for the near future? Create incredible applications that revolutionize the way many people interact with the digital world. Finally, as a life goal, in the future, I will establish myself as a visionary of the metaverse, where creativity and innovation have no limits.
 After all, as I've already learned, with persistence everything is possible for those who believe! And I believe, with all my heart! 🚀💡
 <br><br>
-<p align="center">#CriatividadeSemLimites #SoftwareEng #MobileDeveloper #VisionarioMetaverso.</p>
+<p align="center">#CREATIVITYUNLEASHED #SOFTWAREENG #MOBILEDEVELOPER #METAVISIONARY.</p>
   
 <br>
 
