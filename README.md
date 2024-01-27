@@ -32,7 +32,7 @@ After all, as I've already learned, with persistence everything is possible for 
 
 <img align="center center" src="https://i.imgur.com/Zi7HBrj.png" alt="Fazendo o efeito do <hr> funcionar rsrs">
 
-- 🔭 This is my personalized "Memory Game"<a href="https://matheusstopinski.github.io/MemoryGame/" target="_blank">Click here !✅</a><!-- (https://github.com/MatheusStopinski). -->
+- 🔭 This is my personalized "Memory Game" <a target="_blank" href="https://matheusstopinski.github.io/MemoryGame/">Click here !✅</a><!-- (https://github.com/MatheusStopinski). -->
 
 - 📫 To contact me, use email or telephone: matheus.stopinski@hotmail.com || +55 (41) 999225844.
 
