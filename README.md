@@ -32,7 +32,7 @@ After all, as I've already learned, with persistence everything is possible for 
 
 <img align="center center" src="https://i.imgur.com/Zi7HBrj.png" alt="Fazendo o efeito do <hr> funcionar rsrs">
 
-- 🔭 I'm currently working on [Site Indigena](https://github.com/MatheusStopinski/MasterOfInterfaces/tree/Site_Indigena).
+- 🔭 I'm currently working with [Libraries] <!-- (https://github.com/MatheusStopinski). -->
 
 - 📫 To contact me, use email or telephone: matheus.stopinski@hotmail.com || +55 (41) 999225844.
 
@@ -50,4 +50,4 @@ After all, as I've already learned, with persistence everything is possible for 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusStopinski&repo=anuraghazra.github.io&theme=buefy" />
 </a> |
--->
+
