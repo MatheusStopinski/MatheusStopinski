@@ -34,7 +34,7 @@ After all, as I've already learned, with persistence everything is possible for 
 
 - 🔭 This is my personalized "Memory Game" <a target="_blank" href="https://matheusstopinski.github.io/MemoryGame/">Click here !✅</a><!-- (https://github.com/MatheusStopinski). -->
 
-- 📫 To contact me, use email or telephone: matheus.stopinski@hotmail.com || +55 (41) 999225844.
+- 📫 To contact me, use email or telephone: matheus.stopinski@hotmail.com || +55 (41) 999160121.
 
 - 💬 Ask me about: **Technology, front-end, mobile development and metaverse! I would be happy to talk about 😃
 
